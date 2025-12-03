@@ -4,9 +4,9 @@ int main() {
     int a, b, temp;
 
     printf("Enter two numbers :\n");
-    printf("a - ");
+    printf("a =");
     scanf("%d", &a);
-    printf("b - ");
+    printf("b = ");
     scanf("%d", &b);
 
     temp = a;
